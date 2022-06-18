@@ -7,7 +7,9 @@
 >>>>>>> bb97f5712f8bac263567f8f4242b33f959efb94f
     <p>Please fill in this form to create an account.</p>
     <hr>
-     
+     <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Full Name" name="first name" id="last name" required>
+    <br> 
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
