@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
+<<<<<<< HEAD
     <h1>New user Register for DevOps AWESOME Learning SHRAVAN KUMAR</h1>
+=======
+    <h1>New user Register for  DevOps AWESOME Learning - SHRAVAN KUMAR </h1>
+>>>>>>> bb97f5712f8bac263567f8f4242b33f959efb94f
     <p>Please fill in this form to create an account.</p>
     <hr>
      
